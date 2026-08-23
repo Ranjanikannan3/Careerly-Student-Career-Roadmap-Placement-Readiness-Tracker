@@ -1,2 +1,20 @@
-# Careerly-Student-Career-Roadmap-Placement-Readiness-Tracker
-Centralized students’ placement preparation by providing a single platform to plan, track, and monitor their readiness across key placement areas.
+# Careerly
+
+Student Career Roadmap & Placement Readiness Tracking System — a React + Vite app
+using LocalStorage for persistence.
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Then open the URL Vite prints (usually http://localhost:5173).
+
+## Build for production
+
+```bash
+npm run build
+npm run preview
+```
